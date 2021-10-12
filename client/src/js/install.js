@@ -1,4 +1,4 @@
-const installBtn = document.getElementById("buttonInstall");
+const installBtn = document.getElementById('buttonInstall');
 
 window.addEventListener('beforeinstallprompt', (event) => {
     window.deferredPrompt = event;
@@ -22,4 +22,4 @@ installBtn.addEventListener('click', async () => {
 
 window.addEventListener('appinstalled', (event) => {
     window.deferredPrompt = null;
-})
+});
