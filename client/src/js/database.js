@@ -28,6 +28,7 @@ export const getDb = async (value) => {
   console.log('data saved to the jateDB', res);
 };
 
+// PUT function
 export const putDb = async (id, value) => {
   console.log('PUT request to update the jateDB');
   // connect to DB and version we want to use
