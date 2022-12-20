@@ -1,8 +1,4 @@
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-  # Text Editor (PWA)
-  
-  Link to deployed application => https://powerful-sierra-62510.herokuapp.com/
   
   ## Table of Contents
 - [Description](#description)
@@ -38,11 +34,3 @@
   No tests were required for this project. 
   ## License
   Click the license badge at the top of the ReadME to learn more about the license for this project. 
-
-  ## Questions
-
-  Please contact me with any questions using either of the avenues below. 
-
-  Github URL: https://github.com/aungy5
-
-  Email: aungvary5@gmail.com
